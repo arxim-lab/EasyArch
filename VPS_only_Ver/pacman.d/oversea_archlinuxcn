@@ -1,0 +1,5 @@
+
+Server = https://repo.archlinuxcn.org/$arch
+Server = https://mirrors.ocf.berkeley.edu/archlinuxcn/$arch
+Server = https://mirror.xtom.nl/archlinuxcn/$arch
+Server = https://mirror.xtom.com/archlinuxcn/$arch

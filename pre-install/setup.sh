@@ -1,6 +1,6 @@
 #!/bin/bash
 
-trap '' 2
+trap '' 1 2 3 24
 
 #检查Root权限
 if [[ $(whoami) != 'root' ]]; then
